@@ -32,3 +32,11 @@ Always enjoy learning and helping other people to learn.
 - BEM
 
 ---
+
+## Experience
+
+I have no commercial experience in web programming, but I've got a lot of practice with courses projects and I've got pet projects.
+
+I eager to start implementing my skills in production to make things work. I like to develope new things and to make legacy code works better.
+
+---
