@@ -19,3 +19,16 @@ I've been working as an electrician engineer for 17 years, but now I am looking 
 Always enjoy learning and helping other people to learn.
 
 ---
+
+## Skills
+
+- HTML
+- CSS
+- JS
+- SASS
+- React
+- Git, Github
+- Figma
+- BEM
+
+---
