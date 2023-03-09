@@ -33,6 +33,26 @@ Always enjoy learning and helping other people to learn.
 
 ---
 
+## My code examples
+
+Component for Axios responses for FinHub API
+
+```
+import axios from "axios";
+
+const URL = "https://finnhub.io/api/v1";
+const TOKEN = "cf352eaad3i7csbc05h0cf352eaad3i7csbc05hg";
+
+export default axios.create({
+  baseURL: URL,
+  params: {
+    token: TOKEN,
+  },
+});
+```
+
+---
+
 ## Experience
 
 I have no commercial experience in web programming, but I've got a lot of practice with courses projects and I've got pet projects.
