@@ -4,8 +4,8 @@
 
 - **Mobile Phone:** _+7 926 3247568_
 - **Telegram:** _@Kerbasi_
-- **LinkedIn:** _https://www.linkedin.com/in/kirill-novikov-312b73163/_
-- **Email:** _kirill.novikov@gmail.com_
+- **LinkedIn:** _[https://www.linkedin.com/in/kirill-novikov-312b73163/](https://www.linkedin.com/in/kirill-novikov-312b73163/)_
+- **Email:** _[kirill.novikov@gmail.com](kirill.novikov@gmail.com)_
 - **Github:** _@kerbasi_
 
 ---
