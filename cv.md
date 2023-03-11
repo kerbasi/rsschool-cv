@@ -74,3 +74,10 @@ Examples of my projects:
 - 2023 - Advanced CSS and Sass: Flexbox, Grid, Animations and More! (Udemy)
 
 ---
+
+## Languages
+
+- Russian - native
+- English - B2
+
+---
