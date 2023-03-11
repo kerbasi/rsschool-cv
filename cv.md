@@ -65,3 +65,12 @@ Examples of my projects:
 - [Learning project Russian Travel: HTML, CSS](https://github.com/kerbasi/russian-travel)
 
 ---
+
+## Education
+
+- 2000 - 2006 Moscow Aviation Institute
+- 2020 - CS50
+- 2022 - current Yandex Practicum
+- 2023 - Advanced CSS and Sass: Flexbox, Grid, Animations and More! (Udemy)
+
+---
