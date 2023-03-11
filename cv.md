@@ -59,4 +59,9 @@ I have no commercial experience in web programming, but I've got a lot of practi
 
 I eager to start implementing my skills in production to make things work. I like to develope new things and to make legacy code works better.
 
+Examples of my projects:
+
+- [Learning project Mesto: HTML, CSS, JS, OOP, Webpack](https://github.com/kerbasi/mesto)
+- [Learning project Russian Travel: HTML, CSS](https://github.com/kerbasi/russian-travel)
+
 ---
